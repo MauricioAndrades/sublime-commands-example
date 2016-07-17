@@ -1,4 +1,6 @@
 # sublime-commands-example
+
+```js
 [
 
   {"caption":"About","command":"show_about_window"},
@@ -885,3 +887,4 @@
 
   {"caption":"Word Wrap: Toggle","command":"toggle_setting","args":{"setting":"word_wrap"}}
 ]
+```
